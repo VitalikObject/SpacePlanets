@@ -1,0 +1,9 @@
+import os
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+FONT_SIZE = 20
+FONT_PATH = os.getenv('font_path')
+CHECKBOX_SIZE = (14, 14)
