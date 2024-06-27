@@ -22,4 +22,4 @@ PlanetMovies is an interactive Pygame-based simulation where planets move and in
 • functions.py: Contains various utility functions for handling collisions, adding planets, and dispersing them.
 
 # Screens
-!(images/screen_1)
+![Screen 1](images/screen_1)
