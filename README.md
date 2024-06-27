@@ -1,6 +1,7 @@
 # SpacePlanets
 PlanetMovies is an interactive Pygame-based simulation where planets move and interact with each other. Users can create, remove, and manipulate planets through various features, enhancing the visual and interactive experience.
-Features - 
+
+# Features - 
 
 • Remove Planet If Collided: Removes planets when they collide with each other.
 
@@ -8,7 +9,7 @@ Features -
 
 • Drug Mouse: Moves planets towards the mouse position and disperses them.
 
-File Structure -
+# File Structure -
 
 • main.py: The main game loop and event handling.
 
@@ -19,3 +20,6 @@ File Structure -
 • checkbox.py: Defines the Checkbox class for managing checkbox interactions.
 
 • functions.py: Contains various utility functions for handling collisions, adding planets, and dispersing them.
+
+# Screens
+!(images/screen_1)
